@@ -1,24 +1,7 @@
-# fe-test-beit
+# a Simple Project for completed a BeIT Inovasi Tiwikrama Challenge --
 
-## Project setup
-```
-npm install
-```
+## How to run this project?
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1. Clone this project : git clone https://github.com/Fauzihsan/fe-test-beit.git
+2. Please run ` npm install ` on your terminal
+3. Please run ` npm run serve ` , and **let's start a journey**
